@@ -1,20 +1,95 @@
-# 👋 Olá — eu sou o Miguel Coelho ([@miguelcoelho22](https://github.com/miguelcoelho22))
+# Miguel Arthur de Paula Coelho
 
-Desenvolvedor | 🔧 Backend & Frontend | 🎓 Estudante
+### Backend Developer • Information Systems Student @ UFLA
 
-**Sobre mim**
-- 🧑‍💻 Trabalho com: JavaScript, Node.js, MIPS assembly, C++ (ex.: estruturas de dados), SQL.
-- 🎯 Buscando oportunidades em desenvolvimento web e sistemas.
-- 📫 Como me achar: miguelcoelho22 (no GitHub) — email: seu-email@exemplo.com
+<div align="left">
+  <a href="mailto:miguelarthurcoelho22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-**Projetos**
-- [Portfolio (site)](https://miguelcoelho22.github.io) - página com meus projetos e contato.
-- [Projeto A](https://github.com/miguelcoelho22/projeto-a)
-- [Projeto B](https://github.com/miguelcoelho22/projeto-b)
+  <a href="https://www.linkedin.com/in/miguel-coelho-8b5b25189/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-**Tecnologias**
-`JavaScript` `Node.js` `HTML` `CSS` `C++` `SQL` `MIPS`
+---
 
-> Quer ver algo específico? Me pergunte!
+# 👨‍💻 About Me
 
+Backend developer focused on software architecture, business rules, relational data modeling, and enterprise integrations using the Java ecosystem.
 
+Currently working at **GEDAI (Geoprocessing and Data Science Laboratory)** on the refactoring and modernization of **SIDAGRO**, the management system of the **Instituto Mineiro de Agropecuária (IMA)**.
+
+My work involves:
+
+* Backend development with Java and Spring
+* Business rule implementation
+* Relational database modeling
+* Government system integrations
+* Security and auditing processes
+* API architecture and routing
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## 🔹 SIDAGRO — Instituto Mineiro de Agropecuária (IMA)
+
+Modernization and refactoring project for the official management system of the **Instituto Mineiro de Agropecuária (IMA)**.
+
+### Main Activities
+
+* Refactoring legacy backend systems
+* Redesigning business rules
+* Relational database modeling
+* API development and restructuring
+* Government integrations and validations
+* Security and auditing processes for sensitive governmental data
+
+### Stack
+
+`Java` • `Spring Boot` • `Spring Cloud Gateway` • `JPA/Hibernate` • `PostgreSQL` • `Docker`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=miguelcoelho22&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcoelho22&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📚 Currently Studying
+
+- AWS Cloud Services
+- Microservices Architecture
+- Relational Data Modeling
+
+---
+
+# 📫 Contact
+
+* 📧 **Email:** [miguelarthurcoelho22@gmail.com](mailto:miguelarthurcoelho22@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/miguel-coelho-8b5b25189/](https://www.linkedin.com/in/miguel-coelho-8b5b25189/)
+* 🌎 **Lavras, Minas Gerais - Brazil**
