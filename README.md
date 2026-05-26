@@ -66,19 +66,6 @@ Modernization and refactoring project for the official management system of the 
 
 `Java` • `Spring Boot` • `Spring Cloud Gateway` • `JPA/Hibernate` • `PostgreSQL` • `Docker`
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=miguelcoelho22&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcoelho22&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 # 📚 Currently Studying
 
