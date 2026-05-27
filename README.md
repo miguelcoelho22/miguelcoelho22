@@ -1,4 +1,4 @@
-# Miguel Arthur de Paula Coelho
+# Miguel Coelho
 
 ### Backend Developer • Information Systems Student @ UFLA
 
@@ -14,69 +14,21 @@
 
 ---
 
-# 👨‍💻 About Me
+About
 
-Backend developer focused on software architecture, business rules, relational data modeling, and enterprise integrations using the Java ecosystem.
+Hi, my name is Miguel Coelho. I’m a Backend Developer and Information Systems student at UFLA, currently working at GEDAI on the modernization and refactoring of SIDAGRO, the management system of the Instituto Mineiro de Agropecuária (IMA).
 
-Currently working at **GEDAI (Geoprocessing and Data Science Laboratory)** on the refactoring and modernization of **SIDAGRO**, the management system of the **Instituto Mineiro de Agropecuária (IMA)**.
+My main focus is backend development using the Java ecosystem, especially with Spring Boot and enterprise application architecture. I work with business rule implementation, relational database modeling, API development, and integrations with governmental systems.
 
-My work involves:
+I have also participated in projects involving integrations with government services for CPF, CNPJ, CEP, and SICAR validation APIs, including security and auditing processes due to the handling of sensitive governmental data.
 
-* Backend development with Java and Spring
-* Business rule implementation
-* Relational database modeling
-* Government system integrations
-* Security and auditing processes
-* API architecture and routing
+I’m constantly improving my knowledge in microservices architecture, AWS, and distributed systems, always aiming to build scalable, organized, and maintainable software solutions.
 
 ---
-
 # ⚙️ Tech Stack
 
 <div align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-
 </div>
 
----
-
-# 🚀 Featured Project
-
-## 🔹 SIDAGRO — Instituto Mineiro de Agropecuária (IMA)
-
-Modernization and refactoring project for the official management system of the **Instituto Mineiro de Agropecuária (IMA)**.
-
-### Main Activities
-
-* Refactoring legacy backend systems
-* Redesigning business rules
-* Relational database modeling
-* API development and restructuring
-* Government integrations and validations
-* Security and auditing processes for sensitive governmental data
-
-### Stack
-
-`Java` • `Spring Boot` • `Spring Cloud Gateway` • `JPA/Hibernate` • `PostgreSQL` • `Docker`
-
-
-# 📚 Currently Studying
-
-- AWS Cloud Services
-- Microservices Architecture
-- Relational Data Modeling
-
----
-
-# 📫 Contact
-
-* 📧 **Email:** [miguelarthurcoelho22@gmail.com](mailto:miguelarthurcoelho22@gmail.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/miguel-coelho-8b5b25189/](https://www.linkedin.com/in/miguel-coelho-8b5b25189/)
-* 🌎 **Lavras, Minas Gerais - Brazil**
